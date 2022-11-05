@@ -6,7 +6,7 @@ Asteroids fan game in Python using PyGame
 - Space bar to fire
 
 - ESC to quit the game
-- F to show/hide the FPS
+- F to show/hide FPS
 - U for undestructible (cheat mode)
 - R to reload amunition (cheat mode)
 - Arrows Down to stop/resume music
