@@ -16,10 +16,10 @@ Clic on the screenshots to see the video
 - Space bar to fire
 
 - ESC to quit the game
-- F to show/hide FPS
-- U for undestructible (cheat mode)
-- R to reload amunition (cheat mode)
-- Arrows Down to stop/resume music
+- F key to show/hide FPS
+- M key to stop/resume music
+- U key for undestructible (cheat mode)
+- R key to reload amunition (cheat mode)
 
 To run this game in windows launch build.cmd
 The game exe will be located in the /build directory
